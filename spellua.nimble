@@ -4,7 +4,7 @@ version = "0.1.0"
 author = "glassesneo"
 description = "A high level LuaJIT binding"
 license = "WTFPL"
-srcDir = "."
+srcDir = "src"
 
 
 # Dependencies
